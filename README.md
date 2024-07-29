@@ -39,6 +39,7 @@ These instructions will help you set up the project.
 - Google Forms
 - Google Drive
 - AppSheet
+- AppScripts
 - Gemini AI API key
 
 ## Project Structure
