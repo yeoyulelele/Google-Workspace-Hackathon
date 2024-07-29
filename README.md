@@ -14,7 +14,7 @@ This project streamlines HR recruitment and management processes using Google Wo
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
-   - [AppSheet & Google Forms Links](#appsheet-links)
+   - [AppSheet & Google Forms Links](#appsheet--google-forms-links)
    - [Prerequisites](#prerequisites)
 2. [Project Structure](#project-structure)
 3. [Features](#features)
