@@ -29,11 +29,6 @@ These instructions will help you set up the project on your local machine.
 - **Run the App in Browser**: [Open AppSheet App](https://www.appsheet.com/start/c1421cb7-1920-461e-bc10-2ff3bb7c76f1)
 - **Install the App on Mobile**: [Install AppSheet App](https://www.appsheet.com/newshortcut/c1421cb7-1920-461e-bc10-2ff3bb7c76f1)
 
-
-Install Link
-Allows mobile users to install the app on their device
-https://www.appsheet.com/newshortcut/c1421cb7-1920-461e-bc10-2ff3bb7c76f1
-
 ### Prerequisites
 
 - Google Workspace account
