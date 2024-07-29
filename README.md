@@ -18,10 +18,9 @@ This project streamlines HR recruitment and management processes using Google Wo
 3. [Project Structure](#project-structure)
 4. [Features](#features)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Getting Started
+These instructions will help you set up the project on your local machine.
 
 ### Prerequisites
 
