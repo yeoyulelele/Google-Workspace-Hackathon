@@ -14,13 +14,25 @@ This project streamlines HR recruitment and management processes using Google Wo
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Prerequisites](#prerequisites)
-3. [Project Structure](#project-structure)
-4. [Features](#features)
-5. [Usage](#usage)
+   - [AppSheet Links](#appsheet-links)
+   - [Prerequisites](#prerequisites)
+2. [Project Structure](#project-structure)
+3. [Features](#features)
+4. [Usage](#usage)
+5. [Support](#support)
 
 ## Getting Started
 These instructions will help you set up the project on your local machine.
+
+### AppSheet Links
+
+- **Run the App in Browser**: [Open AppSheet App](https://www.appsheet.com/start/c1421cb7-1920-461e-bc10-2ff3bb7c76f1)
+- **Install the App on Mobile**: [Install AppSheet App](https://www.appsheet.com/newshortcut/c1421cb7-1920-461e-bc10-2ff3bb7c76f1)
+
+
+Install Link
+Allows mobile users to install the app on their device
+https://www.appsheet.com/newshortcut/c1421cb7-1920-461e-bc10-2ff3bb7c76f1
 
 ### Prerequisites
 
