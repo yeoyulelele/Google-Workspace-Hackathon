@@ -22,7 +22,7 @@ This project streamlines HR recruitment and management processes using Google Wo
 5. [Support](#support)
 
 ## Getting Started
-These instructions will help you set up the project on your local machine.
+These instructions will help you set up the project.
 
 ### AppSheet Links
 
